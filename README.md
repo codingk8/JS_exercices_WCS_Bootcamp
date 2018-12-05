@@ -1,7 +1,7 @@
 <h1 align="center">JS_exercices_WCS_Bootcamp</h1>
 <p align="center">Basic JS practice, in :fr:</p>
 
-#### Thanks to [NideXTC](https://github.com/NideXTC)
+<h4 align="center">Thanks to <a href="https://github.com/NideXTC" alt="NideXTC>NideXTC</a></h4>
 
 ***
 
@@ -40,7 +40,7 @@ En reprenant votre tableau de l’exercice précédent, trier ce tableau et le
 Faire une boucle for et, à chaque tour, afficher la valeur en console.
 
 ### Exercice 2.4
-Faire une boucle [for each](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach) et, à chaque tour, afficher la valeur en console.
+Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach)** et, à chaque tour, afficher la valeur en console.
 
 ***
 
@@ -139,16 +139,16 @@ prénom : Chew / nom : Bacca
 Afficher cet objet en console.
 
 ### Exercice 8.2
-Créer un JSON avec 2 tableaux de JSON à l’intérieur :
-prof :
+Créer un JSON avec 2 tableaux de JSON à l’intérieur :  
+prof :  
 prénom : Chew / nom : Bacca 
-élève :
-prénom : Marty / nom : McFly 
-prénom : Doc / nom : Brown
-Ressortir cet objet en console.
+élève :  
+prénom : Marty / nom : McFly  
+prénom : Doc / nom : Brown  
+Ressortir cet objet en console.  
 
 ### Exercice 8.3
-Avec le JSON fait dans l’exercice précédent, affichez en console le nom de Marty.
+Avec le JSON fait dans l’exercice précédent, affichez en console le nom de Marty.  
 prénom : Han / nom : Solo
 
 ### Exercice 8.4
@@ -167,10 +167,10 @@ Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction po
 ***
 
 ## Liens utiles Javascript
-[OpenClassroom 1](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript)  
-[OpenClassroom 2](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript)  
-[Developpez.com](https://javascript.developpez.com/cours/)  
-[Codecademy](https://www.codecademy.com/catalog/language/javascript)
+**[OpenClassroom 1](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript)**  
+**[OpenClassroom 2](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript)**  
+**[Developpez.com](https://javascript.developpez.com/cours/)**  
+**[Codecademy](https://www.codecademy.com/catalog/language/javascript)**
 
 ***
 
