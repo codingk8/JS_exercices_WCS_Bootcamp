@@ -8,19 +8,21 @@
 ## Fonctions
 
 ### Exercice 1.1
-Faire une fonction show qui affichera en console le texte passé en paramètre.
-Exemple : show('coucou');
+Faire une fonction show qui affichera en console le texte passé en paramètre.  
+Exemple : ```show('coucou');```
 
 ### Exercice 1.2
-Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable. Utilisez cette fonction et affichez le résultat en console. aide
+Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable.  
+Utilisez cette fonction et affichez le résultat en console.  
+[aide](https://www.w3schools.com/js/js_function_definition.asp)
 
-### Exercice 1.3 (aide)
-Écrire un script qui affiche “coucou” en console toutes les secondes .
+### Exercice 1.3 [aide](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+Écrire un script qui affiche “coucou” en console toutes les secondes.
 
 ### Exercice 1.4
 Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage.
 
-### Exercice 1.5 (aide)
+### Exercice 1.5 [aide](https://www.w3schools.com/jsref/met_win_settimeout.asp)
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.
 
 ***
@@ -28,8 +30,8 @@ Écrire un script qui affiche “coucou” en console au bout de 2 secondes.
 ## Tableaux
 
 ### Exercice 2.1
-Nous avons les valeurs 4,3,5,8 ; mettre ces valeurs dans un tableau et ressortir en console :
-toutes les valeurs la première valeur la taille du tableau
+Nous avons les valeurs 4,3,5,8 
+Mettre ces valeurs dans un tableau et ressortir en console : toutes les valeurs, la première valeur, la taille du tableau.
 
 ### Exercice 2.2
 En reprenant votre tableau de l’exercice précédent, trier ce tableau et le sortir en console.
@@ -38,7 +40,7 @@ En reprenant votre tableau de l’exercice précédent, trier ce tableau et le
 Faire une boucle for et, à chaque tour, afficher la valeur en console.
 
 ### Exercice 2.4
-Faire une boucle foreach et, à chaque tour, afficher la valeur en console.
+Faire une boucle [for each](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach) et, à chaque tour, afficher la valeur en console.
 
 ***
 
@@ -56,7 +58,10 @@ Afficher en console la valeur de PI (via une constante javascript).
 
 ### Exercice 3.4
 Afficher en console la valeur arrondie de PI à la valeur supérieure et inférieure.
-Regexp (aide)
+
+***
+
+## Regexp [aide](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
 
 ### Exercice 4.1
 Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”.
@@ -70,7 +75,7 @@ Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoif
 ### Exercice 4.4
 Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI” .
 
-### Exercice 4.5 (aide)
+### Exercice 4.5 [aide](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
 ***
@@ -79,13 +84,17 @@ Écrire une regexp pour ressortir les chaînes de caractères dans la chaîn
 
 ### Exercice 5.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “number” et non en “string” ?
-  var test = "0123";
+```
+var test = "0123";
 console.log(typeof test);
+```
 
 ### Exercice 5.2
 Additionnez ces deux valeurs et affichez le résultat en console.
- var uno = "01";
+```
+var uno = "01";
 var dos = "02";
+```
 
 ***
 
@@ -93,35 +102,49 @@ var dos = "02";
 
 ### Exercice 6.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “string” et non en “number” ?
+```
 var test = 0123;
 console.log(typeof test);
+```
 
 ### Exercice 6.2
 Ressortez la chaîne en console sous la forme “Hello World”.
-Dates (aide) Exercice 7.1 Ressortir l’heure en console.
+```
+var hello = "Hello";
+var world = "World";
+```
+
+***
+
+## Dates [aide](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
+
+### Exercice 7.1 
+Ressortir l’heure en console.
 
 ### Exercice 7.2
 Afficher en console la date sous la forme “23/10/2015”.
 
 ### Exercice 7.3
 Afficher en console la date sous la forme “23 octobre 2015” (en français).
-var hello = "Hello";
-var world = "World";
+
  
 ***
  
-## Objets (aide & aide) 
+## Objets [aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm) 
 
 ### Exercice 8.1
 Créer un JSON avec 2 elèves :
-prénom : Han / nom : Solo prénom : Chew / nom : Bacca
+prénom : Han / nom : Solo 
+prénom : Chew / nom : Bacca
 Afficher cet objet en console.
 
 ### Exercice 8.2
 Créer un JSON avec 2 tableaux de JSON à l’intérieur :
 prof :
-prénom : Chew / nom : Bacca élève :
-prénom : Marty / nom : McFly prénom : Doc / nom : Brown
+prénom : Chew / nom : Bacca 
+élève :
+prénom : Marty / nom : McFly 
+prénom : Doc / nom : Brown
 Ressortir cet objet en console.
 
 ### Exercice 8.3
@@ -130,19 +153,23 @@ prénom : Han / nom : Solo
 
 ### Exercice 8.4
 Nous avons un JSON au format texte ; affichez en console la valeur du prénom.
+```
 var text = '{"name" : "Dupont", "first_name" : "Jean"}';
+```
 
 ### Exercice 8.5
 Nous avons le JSON suivant :
+```
 var number = {"random" : "1"};
-Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction pour qu’en faisant number.random(); elle affiche un nombre aléatoire en console.
+```
+Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction pour qu’en faisant ```number.random();``` elle affiche un nombre aléatoire en console.
 
 ***
 
 ## Liens utiles Javascript
-[OpenClassroom 1](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript)
-[OpenClassroom 2](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript)
-[Developpez.com](https://javascript.developpez.com/cours/)
+[OpenClassroom 1](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript)  
+[OpenClassroom 2](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript)  
+[Developpez.com](https://javascript.developpez.com/cours/)  
 [Codecademy](https://www.codecademy.com/catalog/language/javascript)
 
 ***
