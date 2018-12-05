@@ -1,7 +1,7 @@
 <h1 align="center">JS_exercices_WCS_Bootcamp</h1>
 <p align="center">Basic JS practice, in :fr:</p>
 
-<h4 align="center">Thanks to</h4>[NideXTC](https://github.com/NideXTC)
+#### Thanks to [NideXTC](https://github.com/NideXTC)
 
 ***
 
@@ -14,15 +14,15 @@ Exemple : ```show('coucou');```
 ### Exercice 1.2
 Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable.  
 Utilisez cette fonction et affichez le résultat en console.  
-[aide](https://www.w3schools.com/js/js_function_definition.asp)
+[(aide)](https://www.w3schools.com/js/js_function_definition.asp)
 
-### Exercice 1.3 [aide](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+### Exercice 1.3 [(aide)](https://www.w3schools.com/jsref/met_win_setinterval.asp)
 Écrire un script qui affiche “coucou” en console toutes les secondes.
 
 ### Exercice 1.4
 Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage.
 
-### Exercice 1.5 [aide](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+### Exercice 1.5 [(aide)](https://www.w3schools.com/jsref/met_win_settimeout.asp)
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.
 
 ***
@@ -61,7 +61,7 @@ Afficher en console la valeur arrondie de PI à la valeur supérieure et infe�
 
 ***
 
-## Regexp [aide](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
+## Regexp [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
 
 ### Exercice 4.1
 Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”.
@@ -75,7 +75,7 @@ Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoif
 ### Exercice 4.4
 Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI” .
 
-### Exercice 4.5 [aide](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
+### Exercice 4.5 [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
 ***
@@ -116,7 +116,7 @@ var world = "World";
 
 ***
 
-## Dates [aide](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
+## Dates [(aide)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
 
 ### Exercice 7.1 
 Ressortir l’heure en console.
@@ -130,7 +130,7 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
  
 ***
  
-## Objets [aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm) 
+## Objets [(aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide)](https://www.tutorialspoint.com/json/json_syntax.htm) 
 
 ### Exercice 8.1
 Créer un JSON avec 2 elèves :
