@@ -50,6 +50,8 @@ Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScri
 
 ## 3. Les fonctions mathématiques
 
+[Math sur MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math)
+
 ### Exercice 3.1
 Nous avons les valeurs 9,11,55,22 ;
 Comment trouver la valeur minimum et maximum ? Afficher votre résultat en console.
