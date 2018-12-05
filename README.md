@@ -5,7 +5,7 @@
 
 ***
 
-## Fonctions
+## 1. Fonctions
 
 ### Exercice 1.1
 Faire une fonction show qui affichera en console le texte passé en paramètre.  
@@ -27,7 +27,7 @@ Écrire un script qui affiche “coucou” en console au bout de 2 secondes.
 
 ***
 
-## Tableaux
+## 2. Tableaux
 
 ### Exercice 2.1
 Nous avons les valeurs 4,3,5,8 
@@ -44,7 +44,7 @@ Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScri
 
 ***
 
-## Math
+## 3. Math
 
 ### Exercice 3.1
 Nous avons les valeurs 9,11,55,22 ;
@@ -61,7 +61,7 @@ Afficher en console la valeur arrondie de PI à la valeur supérieure et infe�
 
 ***
 
-## Regexp [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
+## 4. Regexp [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
 
 ### Exercice 4.1
 Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”.
@@ -80,7 +80,7 @@ Écrire une regexp pour ressortir les chaînes de caractères dans la chaîn
 
 ***
 
-## Nombres entiers
+## 5. Nombres entiers
 
 ### Exercice 5.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “number” et non en “string” ?
@@ -98,7 +98,7 @@ var dos = "02";
 
 ***
 
-## Chaînes de caractères
+## 6. Chaînes de caractères
 
 ### Exercice 6.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “string” et non en “number” ?
@@ -116,7 +116,7 @@ var world = "World";
 
 ***
 
-## Dates [(aide)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
+## 7. Dates [(aide)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
 
 ### Exercice 7.1 
 Ressortir l’heure en console.
@@ -130,7 +130,7 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
  
 ***
  
-## Objets ([aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm))
+## 8. Objets ([aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm))
 
 ### Exercice 8.1
 Créer un JSON avec 2 elèves :
