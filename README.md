@@ -125,5 +125,9 @@ Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction po
 #Liens utiles Javascript
 OpenClassroom - 1 OpenClassroom - 2 Developpez.com Codecademy
 
-And remember to have fun :sparkle:
+***
+
+And remember to have fun :speak_no_evil:
 <p align="center"><img src="https://media.giphy.com/media/BzTh1dITto54b5IvCz/giphy.gif" alt="Have fun!")</p>
+  
+***
