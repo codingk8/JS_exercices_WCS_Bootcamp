@@ -130,7 +130,7 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
  
 ***
  
-## Objets [(aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide)](https://www.tutorialspoint.com/json/json_syntax.htm) 
+## Objets ([aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm))
 
 ### Exercice 8.1
 Créer un JSON avec 2 elèves :
