@@ -1,5 +1,7 @@
-# JS_exercices_WCS_Bootcamp
-Basic JS practice, in :fr:
+<h1 align='center>JS_exercices_WCS_Bootcamp</h1>
+<p align='center'>Basic JS practice, in :fr:</p>
+
+***
 
 ## Fonctions
 
@@ -18,6 +20,8 @@ Écrire un script qui affiche “coucou” en console toutes les secondes et s�
 ### Exercice 1.5 (aide)
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.
 
+***
+
 ## Tableaux
 
 ### Exercice 2.1
@@ -32,6 +36,8 @@ Faire une boucle for et, à chaque tour, afficher la valeur en console.
 
 ### Exercice 2.4
 Faire une boucle foreach et, à chaque tour, afficher la valeur en console.
+
+***
 
 ## Math
 
@@ -64,7 +70,9 @@ Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en mi
 ### Exercice 4.5 (aide)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
-## Entiers
+***
+
+## Nombres entiers
 
 ### Exercice 5.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “number” et non en “string” ?
@@ -75,6 +83,8 @@ console.log(typeof test);
 Additionnez ces deux valeurs et affichez le résultat en console.
  var uno = "01";
 var dos = "02";
+
+***
 
 ## Chaînes de caractères
 
@@ -94,6 +104,8 @@ Afficher en console la date sous la forme “23/10/2015”.
 Afficher en console la date sous la forme “23 octobre 2015” (en français).
 var hello = "Hello";
 var world = "World";
+ 
+***
  
 ## Objets (aide & aide) 
 
@@ -122,12 +134,14 @@ Nous avons le JSON suivant :
 var number = {"random" : "1"};
 Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction pour qu’en faisant number.random(); elle affiche un nombre aléatoire en console.
 
-#Liens utiles Javascript
+***
+
+## Liens utiles Javascript
 OpenClassroom - 1 OpenClassroom - 2 Developpez.com Codecademy
 
 ***
 
-And remember to have fun :speak_no_evil:
-<p align="center"><img src="https://media.giphy.com/media/BzTh1dITto54b5IvCz/giphy.gif" alt="Have fun!")</p>
+# Enjoy and have fun :sunglasses:
+<p align="center"><img src="https://media.giphy.com/media/Tmwir1pAi8fUk/giphy.gif" alt="Have fun!")</p>
   
 ***
