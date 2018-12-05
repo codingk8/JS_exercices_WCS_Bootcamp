@@ -1,12 +1,15 @@
 <h1 align='center>JS_exercices_WCS_Bootcamp</h1>
 <p align='center'>Basic JS practice, in :fr:</p>
 
+#### Thanks to [NideXTC](https://github.com/NideXTC)
+
 ***
 
 ## Fonctions
 
 ### Exercice 1.1
-Faire une fonction show qui affichera en console le texte passé en paramètre. Exemple : show('coucou');
+Faire une fonction show qui affichera en console le texte passé en paramètre.
+Exemple : show('coucou');
 
 ### Exercice 1.2
 Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable. Utilisez cette fonction et affichez le résultat en console. aide
@@ -137,7 +140,10 @@ Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction po
 ***
 
 ## Liens utiles Javascript
-OpenClassroom - 1 OpenClassroom - 2 Developpez.com Codecademy
+[OpenClassroom 1](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript)
+[OpenClassroom 2](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript)
+[Developpez.com](https://javascript.developpez.com/cours/)
+[Codecademy](https://www.codecademy.com/catalog/language/javascript)
 
 ***
 
