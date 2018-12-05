@@ -17,7 +17,9 @@ Utilisez cette fonction et affichez le résultat en console.
 [(aide)](https://www.w3schools.com/js/js_function_definition.asp)
 
 ### Exercice 1.3 [(aide)](https://www.w3schools.com/jsref/met_win_setinterval.asp)
-Écrire un script qui affiche “coucou” en console toutes les secondes.
+Écrire un script qui affiche “coucou” en console toutes les secondes.  
+
+_Rajouter complément sur fonction SetInterval_
 
 ### Exercice 1.4
 Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage.
