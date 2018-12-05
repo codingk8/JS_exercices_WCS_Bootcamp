@@ -1,7 +1,7 @@
 <h1 align="center">JS_exercices_WCS_Bootcamp</h1>
 <p align="center">Basic JS practice, in :fr:</p>
 
-#### Thanks to [NideXTC](https://github.com/NideXTC)
+<h4 align="center">Thanks to [NideXTC](https://github.com/NideXTC)</h4>
 
 ***
 
