@@ -34,7 +34,7 @@ _Rajouter complément sur fonction SetTimeout_
 ## 2. Les tableaux
 
 ### Exercice 2.1
-Nous avons les valeurs 4,3,5,8   
+Nous avons les valeurs 4,3,5,8.     
 Mettre ces valeurs dans un tableau et ressortir en console : toutes les valeurs, la première valeur, la taille du tableau.
 
 ### Exercice 2.2
