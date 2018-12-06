@@ -139,9 +139,9 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
 ## 8. Les objets ([aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm))
 
 ### Exercice 8.1
-Créer un JSON avec 2 elèves :
-prénom : Han / nom : Solo 
-prénom : Chew / nom : Bacca
+Créer un JSON avec 2 élèves :  
+prénom : Han / nom : Solo   
+prénom : Chew / nom : Bacca  
 Afficher cet objet en console.
 
 ### Exercice 8.2
