@@ -53,7 +53,7 @@ Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScri
 [Math sur MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math)
 
 ### Exercice 3.1
-Nous avons les valeurs 9,11,55,22 ;
+Nous avons les valeurs 9,11,55,22.  
 Comment trouver la valeur minimum et maximum ? Afficher votre résultat en console.
 
 ### Exercice 3.2
@@ -79,7 +79,7 @@ Écrire une regexp pour ressortir la lettre dans la chaîne “1231f156415”.
 Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoifjezyoloceuhfez”.
 
 ### Exercice 4.4
-Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI” .
+Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI.
 
 ### Exercice 4.5 [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
