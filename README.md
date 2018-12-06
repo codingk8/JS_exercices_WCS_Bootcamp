@@ -147,7 +147,7 @@ Afficher cet objet en console.
 ### Exercice 8.2
 Créer un JSON avec 2 tableaux de JSON à l’intérieur :  
 prof :  
-prénom : Chew / nom : Bacca 
+prénom : Chew / nom : Bacca   
 élève :  
 prénom : Marty / nom : McFly  
 prénom : Doc / nom : Brown  
