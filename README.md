@@ -124,6 +124,8 @@ var world = "World";
 
 ## 7. Les dates [(aide)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
 
+[More on dates in JS](https://www.w3schools.com/js/js_dates.asp)
+
 ### Exercice 7.1 
 Ressortir l’heure en console.
 
