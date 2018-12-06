@@ -148,6 +148,7 @@ Afficher cet objet en console.
 Créer un JSON avec 2 tableaux de JSON à l’intérieur :  
 prof :  
 prénom : Chew / nom : Bacca   
+prénom : Han / nom : Solo    
 élève :  
 prénom : Marty / nom : McFly  
 prénom : Doc / nom : Brown  
@@ -155,7 +156,6 @@ Ressortir cet objet en console.
 
 ### Exercice 8.3
 Avec le JSON fait dans l’exercice précédent, affichez en console le nom de Marty.  
-prénom : Han / nom : Solo
 
 ### Exercice 8.4
 Nous avons un JSON au format texte ; affichez en console la valeur du prénom.
