@@ -1,7 +1,7 @@
 /* Exercice 3.1
 Nous avons les valeurs 9,11,55,22.
 Comment trouver la valeur minimum et maximum ? 
-    Afficher votre résultat en console. */
+Afficher votre résultat en console. */
 
 console.log(Math.min(9,11,55,22));
 console.log(Math.max(9,11,55,22));
