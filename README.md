@@ -115,19 +115,32 @@ Afficher en console la valeur arrondie de PI à la valeur supérieure et infe�
 
 ***
 
-## 4. Les regexp [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
+## 4. Les regexp [(MDN regexp)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
+
+[MDN exec()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp/exec)
+> La méthode exec() exécute la recherche d'une correspondance sur une chaîne de caractères donnée. Elle renvoie un tableau 
+> contenant les résultats ou null.
+
 
 ### Exercice 4.1
 Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”.
 
+
+
 ### Exercice 4.2
 Écrire une regexp pour ressortir la lettre dans la chaîne “1231f156415”.
+
+
 
 ### Exercice 4.3
 Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoifjezyoloceuhfez”.
 
+
+
 ### Exercice 4.4
 Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI.
+
+
 
 ### Exercice 4.5 [(aide)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
