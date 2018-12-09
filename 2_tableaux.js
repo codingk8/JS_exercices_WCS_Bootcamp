@@ -44,4 +44,4 @@ tableau.forEach(function(elementActuel, position, tableauQueJUtilise){
 	console.log(`--- Next ---`);
 });
 
-// That's all folks !
+// That's all folks! 🐰
