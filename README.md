@@ -49,7 +49,7 @@ En reprenant votre tableau de l’exercice précédent, trier ce tableau et le
 Faire une boucle for et, à chaque tour, afficher la valeur en console.
 
 ### Exercice 2.4
-Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach)** et, à chaque tour, afficher la valeur en console.
+Faire une boucle **[for each()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach)** et, à chaque tour, afficher la valeur en console.
 
 > La méthode forEach() permet d'exécuter une fonction donnée sur chaque élément du tableau.
 
