@@ -41,14 +41,17 @@ Mettre ces valeurs dans un tableau et ressortir en console : toutes les valeurs,
 En reprenant votre tableau de l’exercice précédent, trier ce tableau et le sortir en console.
 
 **[sort()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/sort)**
+
 > La méthode sort() trie les éléments d'un tableau, dans ce même tableau, et renvoie le tableau.
-> Ordre alphabétique ou croissant
+> Ordre alphabétique ou croissant par défaut (sinon utiliser la fonction)
 
 ### Exercice 2.3
 Faire une boucle for et, à chaque tour, afficher la valeur en console.
 
 ### Exercice 2.4
 Faire une boucle **[for each](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach)** et, à chaque tour, afficher la valeur en console.
+
+> La méthode forEach() permet d'exécuter une fonction donnée sur chaque élément du tableau.
 
 ***
 
