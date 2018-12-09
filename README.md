@@ -14,12 +14,12 @@ Exemple : ```show('coucou');```
 ### Exercice 1.2
 Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable.  
 Utilisez cette fonction et affichez le résultat en console.  
-[(aide)](https://www.w3schools.com/js/js_function_definition.asp)
+[(Fonctions)](https://www.w3schools.com/js/js_function_definition.asp)
 
 ### Exercice 1.3 **[(setInterval())](https://www.w3schools.com/jsref/met_win_setinterval.asp)**
 Écrire un script qui affiche “coucou” en console toutes les secondes.  
 
-[MDN setInterval() gbn:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+[MDN setInterval() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)  
 [MDN clearInterval() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)
 
 ### Exercice 1.4
@@ -28,7 +28,7 @@ Écrire un script qui affiche “coucou” en console toutes les secondes et s�
 ### Exercice 1.5 **[(setTimeout())](https://www.w3schools.com/jsref/met_win_settimeout.asp)**
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.  
 
-[MDN setTimeout() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+[MDN setTimeout() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)  
 [MDN clearTimeout() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearTimeout)
 
 ***
