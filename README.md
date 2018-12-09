@@ -13,10 +13,11 @@ Exemple : ```show('coucou');```
 
 ### Exercice 1.2
 Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable.  
-Utilisez cette fonction et affichez le résultat en console.  
-[(Fonctions)](https://www.w3schools.com/js/js_function_definition.asp)
+Utilisez cette fonction et affichez le résultat en console. 
 
-### Exercice 1.3 **[(setInterval())](https://www.w3schools.com/jsref/met_win_setinterval.asp)**
+[(Fonctions :gb:)](https://www.w3schools.com/js/js_function_definition.asp)
+
+### Exercice 1.3 **[(setInterval() :gb:)](https://www.w3schools.com/jsref/met_win_setinterval.asp)**
 Écrire un script qui affiche “coucou” en console toutes les secondes.  
 
 [MDN setInterval() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)  
@@ -25,7 +26,7 @@ Écrire un script qui affiche “coucou” en console toutes les secondes.
 ### Exercice 1.4
 Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage.
 
-### Exercice 1.5 **[(setTimeout())](https://www.w3schools.com/jsref/met_win_settimeout.asp)**
+### Exercice 1.5 **[(setTimeout() :gb:)](https://www.w3schools.com/jsref/met_win_settimeout.asp)**
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.  
 
 [MDN setTimeout() :gb:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)  
@@ -48,7 +49,11 @@ En reprenant votre tableau de l’exercice précédent, trier ce tableau et le
 > Ordre alphabétique ou croissant par défaut (sinon utiliser la fonction)
 
 ### Exercice 2.3
-Faire une boucle for et, à chaque tour, afficher la valeur en console.
+Faire une boucle **[for](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/for)** et, à chaque tour, afficher la valeur en console.
+
+> L'instruction for crée une boucle composée de trois expressions optionnelles séparées par des points-virgules et 
+> encadrées entre des parenthèses qui sont suivies par une instruction (généralement une instruction de bloc) à 
+> exécuter dans la boucle.
 
 ### Exercice 2.4
 Faire une boucle **[for each()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/forEach)** et, à chaque tour, afficher la valeur en console.
