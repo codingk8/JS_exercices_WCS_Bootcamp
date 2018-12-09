@@ -8,4 +8,4 @@ Ressortez la chaîne en console sous la forme “Hello World”. */
 
 
 
-// That's all folks ! :rabbit:
+// That's all folks ! 🐰
