@@ -43,3 +43,5 @@ tableau.forEach(function(elementActuel, position, tableauQueJUtilise){
 	console.log(`${elementActuel} est l'element actuel de l'index ${position} du tableau que j'utilise ${tableauQueJUtilise}`);
 	console.log(`--- Next ---`);
 });
+
+// That's all folks !
