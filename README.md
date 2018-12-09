@@ -65,14 +65,38 @@ Faire une boucle **[for each()](https://developer.mozilla.org/fr/docs/Web/JavaSc
 Nous avons les valeurs 9,11,55,22.  
 Comment trouver la valeur minimum et maximum ? Afficher votre résultat en console.
 
+[MDN Math.min()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/min)
+> La fonction Math.min() renvoie le plus petit nombre d'une série de 0 ou plusieurs nombres ou bien NaN si au moins un des
+> arguments fourni n'est pas un nombre ou ne peut pas être converti en nombre.
+
+[MDN Math.max()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/max)
+> La fonction Math.max() renvoie le plus grand nombre d'une série de 0 ou plusieurs nombres.
+
 ### Exercice 3.2
 Afficher en console un numéro au hasard via une fonction javascript.
+
+[MDN Math.random()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/random)  
+> La fonction Math.random() renvoie un nombre flottant pseudo-aléatoire compris dans l'intervalle (0, 1) (ce qui signifie 
+> que 0 est compris dans l'intervalle mais que 1 en est exclu) selon une distribution approximativement uniforme sur 
+> cet intervalle. Ce nombre peut ensuite être multiplié afin de couvrir un autre intervalle.
 
 ### Exercice 3.3
 Afficher en console la valeur de PI (via une constante javascript).
 
+[MDN Math.PI](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/PI)  
+
 ### Exercice 3.4
 Afficher en console la valeur arrondie de PI à la valeur supérieure et inférieure.
+
+[MDN Math.round()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/round)  
+
+### Autres fonctions mathématiques utiles
+
+[MDN Math.ceiling()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/ceil)  
+[MDN Math.floor()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/floor)  
+[MDN Math.pow()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/pow)  
+[MDN Math.sign()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/sign)  
+[MDN Math.trunc()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/trunc)  
 
 ***
 
