@@ -30,4 +30,4 @@ et sortir les valeurs en console. */
 
 console.log("fezf1548ffdsaf515154v54654".match(/[a-z]+/g));
 
-// That's all folks !
+// That's all folks! 🐰
