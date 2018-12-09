@@ -94,14 +94,24 @@ Afficher en console la valeur de PI (via une constante javascript).
 Afficher en console la valeur arrondie de PI à la valeur supérieure et inférieure.
 
 [MDN Math.round()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/round)  
+> La fonction Math.round() retourne la valeur d'un nombre arrondi à l'entier le plus proche.
 
 ### Autres fonctions mathématiques utiles
 
 [MDN Math.ceiling()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/ceil)  
+> La fonction Math.ceil() retourne le plus petit entier supérieur ou égal au nombre donné.
+
 [MDN Math.floor()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/floor)  
+> La fonction Math.floor(x) renvoie le plus grand entier qui est inférieur ou égal à un nombre x.
+
 [MDN Math.pow()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/pow)  
+> La fonction Math.pow() renvoie un nombre à une certaine puissance, c'est-à-dire baseexposant.
+
 [MDN Math.sign()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/sign)  
+> La fonction Math.sign() renvoie le signe d'un nombre et permet de savoir si un nombre est positif, négatif ou nul.
+
 [MDN Math.trunc()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/trunc)  
+> La fonction Math.trunc() retourne la partie entière d'un nombre en retirant la partie décimale.
 
 ***
 
