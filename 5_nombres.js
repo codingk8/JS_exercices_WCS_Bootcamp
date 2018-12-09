@@ -5,3 +5,9 @@ Sans modifier les lignes actuelles, comment faire ressortir le typeof en “numb
 
 /* Exercice 5.2
 Additionnez ces deux valeurs et affichez le résultat en console. */
+
+
+
+
+
+// That's all folks! 🐰
