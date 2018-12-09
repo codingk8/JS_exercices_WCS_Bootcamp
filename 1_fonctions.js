@@ -46,4 +46,4 @@ setTimeout(function () {
     alert('Hello');
 }, 2000);
 
-// That's all folks!
+// That's all folks! 🐰
