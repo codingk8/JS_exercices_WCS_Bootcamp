@@ -16,18 +16,20 @@ Nous voulons stocker notre fonction faite dans l’exercice précédent dans u
 Utilisez cette fonction et affichez le résultat en console.  
 [(aide)](https://www.w3schools.com/js/js_function_definition.asp)
 
-### Exercice 1.3 [(aide)](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+### Exercice 1.3 **[(setInterval())](https://www.w3schools.com/jsref/met_win_setinterval.asp)**
 Écrire un script qui affiche “coucou” en console toutes les secondes.  
 
-_Rajouter complément sur fonction SetInterval, à compléter par clearInterval_
+[MDN setInterval() :en:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+[MDN clearInterval() :en:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)
 
 ### Exercice 1.4
 Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage.
 
-### Exercice 1.5 [(aide)](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+### Exercice 1.5 **[(setTimeout())](https://www.w3schools.com/jsref/met_win_settimeout.asp)**
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes.  
 
-_Rajouter complément sur fonction SetTimeout_
+[MDN setTimeout() :en:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+[MDN clearTimeout() :en:](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearTimeout)
 
 ***
 
