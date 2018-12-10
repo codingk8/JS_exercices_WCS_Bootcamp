@@ -150,6 +150,20 @@ Écrire une regexp pour ressortir les chaînes de caractères dans la chaîn
 
 ## 5. Les nombres entiers
 
+[MDN parseInt()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/parseInt)  
+> La fonction parseInt() analyse une chaîne de caractère fournie en argument et renvoie un entier exprimé dans une 
+> base donnée.
+
+[MDN parseFloat()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/parseFloat)  
+> La fonction parseFloat() permet de transformer une chaîne de caractères en un nombre flottant après avoir analysée 
+> celle-ci (parsing).
+
+[MDN Number()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Number)  
+> Utilisé pour convertir une chaîne de caractères représentant une valeur numérique en nombre
+
+[MDN typeof](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_typeof)  
+> L'opérateur typeof renvoie une chaîne qui indique le type de son opérande.
+
 ### Exercice 5.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “number” et non en “string” ?
 ```
