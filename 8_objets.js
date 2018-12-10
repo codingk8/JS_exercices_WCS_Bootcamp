@@ -9,7 +9,7 @@ let el = [{
   "prénom": "Han",
    "nom": "Solo"
  }, {
-  "prénom": "Chew,
+  "prénom": "Chew",
   "nom": "Bacca"
  }];
 
