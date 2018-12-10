@@ -21,7 +21,7 @@
 
 #### Les dates : date, getHours(), getMinutes(), toLocaleTimeString(), toLocaleDateString()
 
-#### Les objets : (doing)
+#### Les objets : JSON, JSON.parse(), JSON.stringify()
 
 #### + Liens utiles JS
 
@@ -268,6 +268,19 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
 ***
  
 ## 8. Les objets ([Objects :gb:](https://www.w3schools.com/js/js_json_syntax.asp) & [json :gb:](https://www.tutorialspoint.com/json/json_syntax.htm))
+
+[MDN JSON](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON)  
+> L’objet JSON contient des méthodes pour interpréter du JSON (JavaScript Object Notation) (voir également la page du 
+> glossaire JSON) et convertir des valeurs en JSON. Il ne peut être appelé ou construit, et, en dehors de ses deux méthodes, 
+> n’a pas de fonctionnalité propre.
+
+[MDN JSON.parse()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/parse)
+> Interprète une chaîne de caractères comme du JSON, transformant de façon optionnelle la valeur produite et ses propriétés, 
+> puis retourne la valeur. (transforme une string en objet Cf. 8.4)
+
+[MDN JSON.stringify()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/stringify)  
+> Retourne une chaîne de caractères JSON correspondant à la valeur spécifiée, incluant de façon optionnelle seulement 
+> certaines propriétés, ou remplaçant des valeurs de propriété dans une forme définie par l’utilisateur. (transforme un objet en string)
 
 ### Exercice 8.1
 Créer un JSON avec 2 élèves :  
