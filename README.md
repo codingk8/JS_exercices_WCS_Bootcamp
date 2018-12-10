@@ -164,9 +164,10 @@ Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoif
 Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI.
 
 ### Exercice 4.5 [(MDN match())](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
-Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
-> La méthode match() permet d'obtenir le tableau des correspondances entre la chaîne courante et une expression rationnelle.
+> La méthode match() permet d'obtenir le tableau des correspondances entre la chaîne courante et une expression rationnelle.  
+
+Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
 ***
 
