@@ -182,6 +182,13 @@ var dos = "02";
 
 ## 6. Les chaînes de caractères
 
+[MDN toString()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/toString)  
+> La méthode toString() renvoie une chaine de caractères représentant l'objet renseigné.
+
+[MDN concat()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/concat)  
+> La méthode concat() combine le texte de plusieurs chaînes avec la chaîne appelante et renvoie la nouvelle chaîne 
+> ainsi formée.
+
 ### Exercice 6.1
 Sans modifier les lignes actuelles, comment faire ressortir le typeof en “string” et non en “number” ?
 ```
@@ -198,9 +205,32 @@ var world = "World";
 
 ***
 
-## 7. Les dates [(aide)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
+## 7. Les dates [(Dates :gb:)](https://www.w3schools.com/jsref/jsref_obj_date.asp) 
 
-[More on dates in JS with exercices](https://www.w3schools.com/js/js_dates.asp)
+[Dates + exercices :gb:](https://www.w3schools.com/js/js_dates.asp)
+
+[MDN date](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date)  
+> Ce constructeur permet de créer des instances Date qui représentent un moment précis dans le temps. Les objets Date se 
+> basent sur une valeur de temps qui est le nombre de millisecondes depuis 1er janvier 1970 minuit UTC.
+
+[MDN date prototype, la liste des fonctions de date](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/prototype)  
+
+[MDN getHours()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/getHours)  
+> La méthode getHours() renvoie l'heure pour la date renseignée, d'après l'heure locale.
+
+[MDN getMinutes()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/getMinutes)  
+> La méthode getMinutes() renvoie les minutes pour la date renseignée d'après l'heure locale.
+
+[MDN toLocaleTimeString](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toLocaleTimeString)  
+> La méthode toLocaleTimeString() renvoie une chaine de caractères correspondant à l'heure dans la date, exprimée selon une 
+> locale. Les arguments locales et options permettent aux applications de définir le langage utilisé pour les conventions de 
+> format et permettent de personnaliser le comportement de la fonction.
+
+[MDN toLocaleDateString](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toLocaleDateString)  
+> La méthode toLocaleDateString() renvoie une chaine de caractères correspondant à la date (le fragment de l'objet qui 
+> correspond à la date : jour, mois, année) exprimée selon une locale. Les arguments locales et options permettent aux 
+> applications de définir le langage utilisé pour les conventions de format et permettent de personnaliser le comportement de 
+> la fonction.
 
 ### Exercice 7.1 
 Ressortir l’heure en console.
@@ -214,7 +244,7 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
  
 ***
  
-## 8. Les objets ([aide](https://www.w3schools.com/js/js_json_syntax.asp) & [aide](https://www.tutorialspoint.com/json/json_syntax.htm))
+## 8. Les objets ([Objects :gb:](https://www.w3schools.com/js/js_json_syntax.asp) & [json :gb:](https://www.tutorialspoint.com/json/json_syntax.htm))
 
 ### Exercice 8.1
 Créer un JSON avec 2 élèves :  
