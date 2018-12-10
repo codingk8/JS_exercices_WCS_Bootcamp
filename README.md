@@ -23,6 +23,8 @@
 
 #### Les objets : (doing)
 
+#### + Liens utiles JS
+
 ***
 
 ## 1. Les fonctions
