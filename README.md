@@ -5,6 +5,26 @@
 
 ***
 
+## Recap
+
+#### Les fonctions : setInterval(), clearInterval(), setTimeout(), clearTimeout()
+
+#### Les tableaux : sort(), for, for each()
+
+#### Les fonctions mathématiques : Math.min(), Math.max(), Math.random(), Math.PI, Math.round(), Math.ceiling(), Math.floor(), Math.pow(), Math.sign(), Math.trunc()
+
+#### Les regexp : exec(), test(), search(), match()
+
+#### Les nombres entiers : parseInt(), parseFloat(), Number(), typeof
+
+#### Les chaînes de caractères : toString(), concat()
+
+#### Les dates : date, getHours(), getMinutes(), toLocaleTimeString(), toLocaleDateString()
+
+#### Les objets : (doing)
+
+***
+
 ## 1. Les fonctions
 
 ### Exercice 1.1
@@ -141,7 +161,7 @@ Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoif
 ### Exercice 4.4
 Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI.
 
-### Exercice 4.5 [(MDN match)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
+### Exercice 4.5 [(MDN match())](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match)
 Écrire une regexp pour ressortir les chaînes de caractères dans la chaîne “fezf1548ffdsaf515154v54654” et sortir les valeurs en console.
 
 > La méthode match() permet d'obtenir le tableau des correspondances entre la chaîne courante et une expression rationnelle.
