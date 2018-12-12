@@ -28,6 +28,17 @@ for(let i = 0; i < tableau.length ; i++){
 	console.log('Pour l\'index ' + i + ' la valeur est ' + tableau[i]);
 }
 
+const tab = [1,2,3];
+for(let i = 0; i < tab.length; i++) {
+    console.log(i, tab[i]);  
+}
+
+const arr = [1, 2, 3]; 
+for(let i = 0; i < arr.length ; i++){
+	console.log('index',i);
+	console.log('valeur', arr[i]);
+	console.log('------');
+} 
 
 /* Exercice 2.4
 Faire une boucle for each et, à chaque tour, afficher la valeur en console. */
@@ -43,5 +54,12 @@ tableau.forEach(function(elementActuel, position, tableauQueJUtilise){
 	console.log(`${elementActuel} est l'element actuel de l'index ${position} du tableau que j'utilise ${tableauQueJUtilise}`);
 	console.log(`--- Next ---`);
 });
+
+// Autre
+
+['A', 'B', 'C'].forEach(function(element){
+	console.log(element);
+});
+
 
 // That's all folks! 🐰
