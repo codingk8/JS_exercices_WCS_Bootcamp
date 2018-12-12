@@ -2,7 +2,7 @@
 <h2 align="center">Basic JS practice, in :fr: (sometimes in :gb:)</h2>
 
 <h2 align="center">Thanks to <a href="https://github.com/NideXTC">NideXTC</a></h2>
-<h4 align="center">Last update: 20181212</h4>
+<h4 align="center" font-style="italic">Last update: 20181212</h4>
 
 ***
 
