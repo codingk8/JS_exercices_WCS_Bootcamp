@@ -3,7 +3,7 @@ Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”. *
 
 const text = "Coucou 3"; 
 console.log(text.match(/[0-9]+/g));
-console.log(text.exec(/\d+/));
+console.log(text.match(/\d+/));
 
 
 /* Exercice 4.2
@@ -15,8 +15,8 @@ console.log("1231f156415".match(/[a-z]/i));
 /* Exercice 4.3
 Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoifjezyoloceuhfez”. */
 
-console.log('fjezoifjezyoloceuhfez'.match(/yolo/));
-console.log('fjezoifjezyoloceuhfez'.match(/y[a-z]{3}/);
+console.log("fjezoifjezyoloceuhfez".match(/yolo/));
+console.log("fjezoifjezyoloceuhfez".match(/y[a-z]{3}/);
 
 
 /* Exercice 4.4
