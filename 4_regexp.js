@@ -2,26 +2,27 @@
 Écrire une regexp pour ressortir le chiffre dans la chaîne “Coucou 3”. */
 
 const text = "Coucou 3"; 
-console.log(/[0-9]+/g.exec(text));
-console.log(/\d/.exec(text));
+console.log(text.match(/[0-9]+/g));
+console.log(text.exec(/\d+/));
 
 
 /* Exercice 4.2
 Écrire une regexp pour ressortir la lettre dans la chaîne “1231f156415”. */
 
-console.log(/[a-z]/i.exec('1231F156415'));
+console.log("1231f156415".match(/[a-z]/i));
 
 
 /* Exercice 4.3
 Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoifjezyoloceuhfez”. */
 
-console.log(/yolo/i.exec('fjezoifjezyoloceuhfez'));
+console.log('fjezoifjezyoloceuhfez'.match(/yolo/));
+console.log('fjezoifjezyoloceuhfez'.match(/y[a-z]{3}/);
 
 
 /* Exercice 4.4
-Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI. */
+Écrire une regexp pour ressortir le mot “yolo” (le mot cherché est en minuscule) dans la chaîne “FOEIJFOEZIJFEYOLOFEZKUHFEI". */
 
-console.log(/y[a-z]{3}/i.exec('fjezoifjezyoloceuhfez'));
+console.log("FOEIJFOEZIJFEYOLOFEZKUHFEI".match(/y[a-z]{3}/i));
 
 
 /* Exercice 4.5
