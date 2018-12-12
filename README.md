@@ -322,7 +322,7 @@ Nous voulons qu’il nous ressorte un nombre aléatoire. Placez une fonction po
 
 ***
 
-# Enjoy and have fun :sunglasses:
+<h1 align="center">Enjoy and have fun :sunglasses:</h1>
 <p align="center"><img src="https://media.giphy.com/media/Tmwir1pAi8fUk/giphy.gif" alt="Have fun!")</p>
   
 ***
