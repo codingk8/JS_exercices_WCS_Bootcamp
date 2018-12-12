@@ -13,7 +13,7 @@
 
 #### Les fonctions mathématiques : Math.min(), Math.max(), Math.random(), Math.PI, Math.round(), Math.ceiling(), Math.floor(), Math.pow(), Math.sign(), Math.trunc()
 
-#### Les regexp : exec(), test(), search(), match()
+#### Les regexp : test(), search(), match()
 
 #### Les nombres entiers : parseInt(), parseFloat(), Number(), typeof
 
@@ -138,10 +138,6 @@ Afficher en console la valeur arrondie de PI à la valeur supérieure et infe�
 ***
 
 ## 4. Les regexp [(MDN regexp)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
-
-[MDN exec()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp/exec)
-> La méthode exec() exécute la recherche d'une correspondance sur une chaîne de caractères donnée. Elle renvoie un tableau 
-> contenant les résultats ou null.
 
 [MDN test()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp/test)  
 > La méthode test() vérifie s'il y a une correspondance entre un texte et une expression rationnelle. Elle retourne true 
