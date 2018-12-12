@@ -273,6 +273,7 @@ Afficher en console la date sous la forme “23 octobre 2015” (en français).
 [MDN JSON.parse()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/parse)
 > Interprète une chaîne de caractères comme du JSON, transformant de façon optionnelle la valeur produite et ses propriétés, 
 > puis retourne la valeur. (transforme une string en objet Cf. 8.4)
+> Essentiel parce que HTTP ne renvoit que des strings qu'il faudra donc parser pour pouvoir récupérer des infos dedans
 
 [MDN JSON.stringify()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/stringify)  
 > Retourne une chaîne de caractères JSON correspondant à la valeur spécifiée, incluant de façon optionnelle seulement 
