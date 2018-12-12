@@ -16,7 +16,7 @@ console.log("1231f156415".match(/[a-z]/i));
 Écrire une regexp pour ressortir le mot “yolo” dans la chaîne “fjezoifjezyoloceuhfez”. */
 
 console.log("fjezoifjezyoloceuhfez".match(/yolo/));
-console.log("fjezoifjezyoloceuhfez".match(/y[a-z]{3}/);
+console.log("fjezoifjezyoloceuhfez".match(/y[a-z]{3}/));
 
 
 /* Exercice 4.4
