@@ -20,7 +20,8 @@ console.log(Math.PI);
 
 
 /* Exercice 3.4
-Afficher en console la valeur arrondie de PI à la valeur supérieure et inférieure. */
+Afficher en console la valeur arrondie de PI à la valeur supérieure et inférieure. 
+Le round fonctionne automatiquement avec Floor et Ceil*/
 
 console.log(Math.floor(Math.PI));
 console.log(Math.ceil(Math.PI));
