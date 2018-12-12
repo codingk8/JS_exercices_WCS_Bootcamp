@@ -7,9 +7,12 @@ console.log(typeof test);
 console.log(parseInt(test));
 
 // Ou bien
-
 test = +test // Et ça le transforme en nombre
 console.log(typeof test);
+
+// Possible aussi
+test = Number(test);
+// Mais Number() est + lourd en mémoire car cela crèe un objet => on préfère les autres méthodes
 
 
 /* Exercice 5.2
