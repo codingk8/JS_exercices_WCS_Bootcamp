@@ -3,7 +3,9 @@ Créer un JSON avec 2 élèves :
 prénom : Han / nom : Solo
 prénom : Chew / nom : Bacca
 Afficher cet objet en console. 
-Dans ce cas, le JSON est un tableau qui regroupe 2 objets */
+Dans ce cas, le JSON est un tableau qui regroupe 2 objets 
+
+Rqs : [ crochets = tableau, liste | { accolades = objet, JSON */
 
 let el = [{
   "prénom": "Han",
@@ -55,7 +57,8 @@ console.log(ec['élèves'][0]['prénom']);
 
 
 /* Exercice 8.4
-Nous avons un JSON au format texte ; affichez en console la valeur du prénom. */
+Nous avons un JSON au format texte ; affichez en console la valeur du prénom. 
+RQ : HTTP renvoit des Strings à transformer en JSON pour pouvoir les exploiter */
 
 let text = '{"name" : "Dupont", "first_name" : "Jean"}';
 
