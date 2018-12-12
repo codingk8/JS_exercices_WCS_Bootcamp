@@ -7,10 +7,6 @@ function show(param) {
 }
 show("Coucou !");
 
-// En ES6
-const show = (param) => console.log(param);
-show("Coucou!");
-
 
 /* Exercice 1.2
 Nous voulons stocker notre fonction faite dans l’exercice précédent dans une variable.
@@ -20,6 +16,10 @@ let show = function(param) {
   console.log(param);
 }
 show("Hello World!");
+
+// En ES6
+const show = (param) => console.log(param);
+show("Coucou!");
 
 
 /* Exercice 1.3
