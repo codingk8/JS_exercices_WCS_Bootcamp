@@ -11,15 +11,17 @@ console.log(tableau.length);
 /* Exercice 2.2
 En reprenant votre tableau de l’exercice précédent, trier ce tableau et le sortir en console. */
 
-// V1
-tableau.sort();
-console.log(tableau); // le reclasse par ordre croissant
+// V1 pour le reclasser par ordre croissant
+tableau.sort(function(a, b){
+    return a > b;
+});
+console.log(tableau);
 
 // v2 pour le classer par ordre décroissant
 tableau.sort(function(a, b){
     return a < b;
 });
-console.log(tableau); // le reclasse par ordre décroissant
+console.log(tableau);
 
 
 /* Exercice 2.3
