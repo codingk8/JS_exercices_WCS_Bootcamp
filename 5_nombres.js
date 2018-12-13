@@ -12,7 +12,7 @@ console.log(typeof test);
 
 // Possible aussi
 test = Number(test);
-// Mais Number() est + lourd en mémoire car cela crèe un objet => on préfère les autres méthodes
+// Mais Number() est + lourd en mémoire car cela crée un objet => on préfère les autres méthodes
 
 
 /* Exercice 5.2
