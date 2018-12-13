@@ -29,9 +29,11 @@ setInterval(function(){
   console.log('Coucou'); 
 }, 1000);
 
+// Dans ce cas, ça continue sans s'arrêter.
+// Pour l'arrêter automatiquement, il faut une condition avec clearInterval comme ci-dessous.
+
 /* Exercice 1.4
-Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage. 
-Idéalement, rajouter un clearInterval pour que ça s'arrête. */
+Écrire un script qui affiche “coucou” en console toutes les secondes et s’arrête après le 3e passage avec un clearInterval. */
 
 let compt = 0;
 let interval = setInterval(function () {
@@ -41,6 +43,24 @@ let interval = setInterval(function () {
     }
     compt++
 }, 1000);
+
+// Autre exemple
+let c = 0;
+let foo = setInterval(function() {
+    if (c === 0) {
+        console.log("passage 1");
+    } else if (c === 1) {
+        console.log("passage 2");
+    } else if (c === 2) {
+        console.log("passage 3");
+    } else if (c === 3) {
+        console.log("passage 4");
+    } else if (c === 4) {
+        clearInterval(foo);
+    }
+    c++;
+    }, 3000);
+
 
 /* Exercice 1.5
 Écrire un script qui affiche “coucou” en console au bout de 2 secondes. */
