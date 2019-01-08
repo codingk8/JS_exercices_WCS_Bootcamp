@@ -11,13 +11,28 @@ console.log(tableau.length);
 /* Exercice 2.2
 En reprenant votre tableau de l’exercice précédent, trier ce tableau et le sortir en console. */
 
+/* Fonction sort() compliquée à utiliser en particulier avec des Strings pour un classement par ordre alphabétique,
+plus facile avec des nombre => regarder les détails dans MDN */
+
 // V1 pour le reclasser par ordre croissant
+tableau.sort(function(a, b){
+    return a - b;
+});
+console.log(tableau);
+
+// Fonctionne aussi a > b pour ordre croissant, ce qui est contre-intuitif
 tableau.sort(function(a, b){
     return a > b;
 });
 console.log(tableau);
 
 // v2 pour le classer par ordre décroissant
+tableau.sort(function(a, b){
+    return b - a;
+});
+console.log(tableau);
+
+// Fonctionne aussi a < b pour ordre décroissant, ce qui est aussi contre-intuitif
 tableau.sort(function(a, b){
     return a < b;
 });
@@ -41,6 +56,7 @@ for(let i = 0; i < arr.length ; i++){
 	console.log('valeur', arr[i]);
 	console.log('------');
 } 
+
 
 /* Exercice 2.4
 Faire une boucle for each et, à chaque tour, afficher la valeur en console. */
